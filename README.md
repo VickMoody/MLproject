@@ -1,5 +1,5 @@
 # MLproject
-student failure prediction
+STUDENT FAILURE PREDICTION
 
 !!! MATLAB Neural Networks,Simulink and Machine Learning Packages are required.
 
